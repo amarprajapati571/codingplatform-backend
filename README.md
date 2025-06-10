@@ -34,10 +34,10 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone [[<repository_url>]()](https://github.com/amarprajapati571/codingplatform-backend.git)
     cd codingplatform-backend
     ```
-    (Replace `<repository_url>` with the actual URL of your repository.)
+    (Replace `[<repository_url>](https://github.com/amarprajapati571/codingplatform-backend.git)` with the actual URL of your repository.)
 
 2.  **Install dependencies:**
     Navigate to the project root directory and install all required Node.js packages:
